@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahhiigee.nmrml.org/sitemap.xml
